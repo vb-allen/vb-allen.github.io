@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'How did I escape? With difficulty. How did I plan this moment? With pleasure.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'It was the best of times, it was the worst of times',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'A modern day warrior, mean mean stride, today's Tom Sawyer, mean mean pride.'      
 };
 
 function status(statusText) {
