@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'It was the best of times, it was the worst of times',
   'example3':
-      'A modern day warrior, mean mean stride, today's Tom Sawyer, mean mean pride.'      
+      'Saturday morning was come, and all the summer world was bright and fresh, and brimming with life.'      
 };
 
 function status(statusText) {
