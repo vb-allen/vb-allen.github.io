@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'How did I escape? With difficulty. How did I plan this moment? With pleasure.',
+      'We must explain this visit, which although expected by Monte Cristo, is unexpected to our readers',
   'example2':
       'It was the best of times, it was the worst of times',
   'example3':
-      'Saturday morning was come, and all the summer world was bright and fresh, and brimming with life.'      
+      'The old lady stood petrified with astonishment, peering over her glasses; Tom lay on the floor expiring with laughter'      
 };
 
 function status(statusText) {
