@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'We must explain this visit, which although expected by Monte Cristo, is unexpected to our readers',
+      'Morrel obeyed; guided by Valentine, he had learned how to understand the old man quickly',
   'example2':
       'It was the best of times, it was the worst of times',
   'example3':
